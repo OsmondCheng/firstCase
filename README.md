@@ -1,2 +1,2 @@
 # firstCase
-This is my first TESTING project on Github
+This is my first TESTING code on Github
